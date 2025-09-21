@@ -55,12 +55,13 @@ Hi! I'm Eduardo, a passionate software engineer with experience in both backend 
 
 - AWS Cloud Practitioner 
 - Machine Learning 
-
+Certificates  [Here](https://github.com/eduardovilches/certifications)
 
 ---
 
 ## 💡 Fun Fact
 
 I love solving coding challenges and make Electronic Music!
+
 
 --- 
