@@ -61,8 +61,10 @@ Hi! I'm Eduardo, a passionate software engineer with experience in both backend 
 
 ## 💡 Fun Fact
 
-I love solving coding challenges and make Electronic Music!
+I love solving coding challenges and make Electronic Music! 
+- Chuleta [codes](https://github.com/eduardovilches/chuleta-py)
 
 
 --- 
+
 
